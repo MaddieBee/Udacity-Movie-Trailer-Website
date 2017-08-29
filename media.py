@@ -1,9 +1,10 @@
-import webbrowser
+import webbrowser  #This function is used to access the web for the cover art and youtube trailers.  
+
 
 class  Movie():
     """ This class class provides a way to store movie related information"""
     
-    VALID_RATINGS = ['G', "PG", "PG-13", "R"]
+    
     
     def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
         self.title = movie_title

@@ -1,5 +1,8 @@
-import fresh_tomatoes
-import media 
+import fresh_tomatoes  #calls the fresh tomatoes python file within this folder.
+import media   
+
+#The import media function is used to call the media python file.
+#In the media.py file the title, storyline, Cover Art, and Trailer are defined in the class Movie.
 
 kill_bill = media.Movie("Kill Bill", 
                         "A Woman's Revenge On The People Who Attempted To Kill Her.",
