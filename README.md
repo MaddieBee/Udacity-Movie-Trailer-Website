@@ -1,2 +1,1 @@
-# ud036_StarterCode
-Source code for a Movie Trailer website.
+Read Me File Created By Madison Bold for the Udacity Movie Trailer Website Project.  
